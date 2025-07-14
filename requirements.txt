@@ -1,0 +1,13 @@
+pandas
+numpy
+pandas-ta
+scipy
+scikit-learn
+tensorflow
+pyqt6
+matplotlib
+# tvDatafeed (install manually: pip install git+https://github.com/rongardF/tvdatafeed.git)
+keyring
+pyharmonics
+joblib  # for model saving
+mplfinance

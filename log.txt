@@ -1,0 +1,58 @@
+ERROR:root:Login error: name 'tvDatafeed' is not defined
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Login error: name 'tvDatafeed' is not defined
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Login error: name 'tvDatafeed' is not defined
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Login error: name 'tvDatafeed' is not defined
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Login error: name 'tvDatafeed' is not defined
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Login error: name 'tvDatafeed' is not defined
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:root:Data load error: 'NoneType' object has no attribute 'get_hist'
+ERROR:tvDatafeed.main:error while signin
+WARNING:tvDatafeed.main:you are using nologin method, data you access may be limited
+ERROR:tvDatafeed.main:error while signin
+WARNING:tvDatafeed.main:you are using nologin method, data you access may be limited
+ERROR:tvDatafeed.main:error while signin
+WARNING:tvDatafeed.main:you are using nologin method, data you access may be limited
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:root:Data load error: No data fetched from TradingView.
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:root:Data load error: No data fetched from TradingView.
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:root:Data load error: No data fetched from TradingView.
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:tvDatafeed.main:error while signin
+WARNING:tvDatafeed.main:you are using nologin method, data you access may be limited
+ERROR:tvDatafeed.main:error while signin
+WARNING:tvDatafeed.main:you are using nologin method, data you access may be limited
+ERROR:tvDatafeed.main:error while signin
+WARNING:tvDatafeed.main:you are using nologin method, data you access may be limited
+ERROR:tvDatafeed.main:error while signin
+WARNING:tvDatafeed.main:you are using nologin method, data you access may be limited
+ERROR:tvDatafeed.main:error while signin
+WARNING:tvDatafeed.main:you are using nologin method, data you access may be limited
